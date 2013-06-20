@@ -3,7 +3,7 @@ package de.vogella.git.first;
 public class NewExampleClassB {
 
 	public static void main(String[] args) {
-		System.out.println("Git is kind of new");
+		System.out.println("Git is not new");
 
 	}
 
